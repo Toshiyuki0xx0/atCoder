@@ -6,6 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
+		// TODO 自動生成されたメソッド・スタブ
 		Scanner cin = new Scanner(System.in);
 		int N = cin.nextInt();
 		int[] a = new int[N];

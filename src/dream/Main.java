@@ -7,6 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		//
 		//ブランチしたと
+		//さらにブランチしたと
 		//
 		// TODO 自動生成されたメソッド・スタブ
 		Scanner sc = new Scanner(System.in);

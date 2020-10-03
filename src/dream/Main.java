@@ -6,7 +6,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		//
+<<<<<<< HEAD
 		//マスタのツリー
+=======
+		//ブランチしたと
+		//さらにブランチしたと
+>>>>>>> ブランチ照テスト
 		//
 		// TODO 自動生成されたメソッド・スタブ
 		Scanner sc = new Scanner(System.in);
